@@ -85,7 +85,6 @@ This assignment should prove that a student is able to:
   - [ ] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
   - [ ] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).
   - [ ] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
-  - [ ] **!!! Optional.** At least one shape should be clipped using a path or created with SVG shaping tools such as a path, polyline, or polygon. Note that manually created SVGs are expected; generated SVGs from any UI tool will not be accepted.
   - [ ] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
   - [ ] The width and / or height of at least one shape should be based on relative units relative to the font size.
   - [ ] At least one shape should have an opacity of 50% or be semi-transparent.
@@ -95,7 +94,7 @@ This assignment should prove that a student is able to:
 
 `For the Legal Page exercise`
 
-- [ ] What the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
+- [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
 - [ ] Edit the following files to solve that part of the assignemnt:
   - [ ] html: `/pages/legal-page.html`
   - [ ] css: `/css/legal-page.css`
