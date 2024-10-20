@@ -50,7 +50,7 @@ This assignment should prove that a student is able to:
 
 `For the Robot Face exercise:`
 
-- Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article to get the shapes inspiration.
+- [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
 - [ ] Edit the following files to solve that part of the assignemnt:
   - [ ] html: `/pages/fancy-robot.html`
   - [ ] css: `/css/fancy-robot.css`
