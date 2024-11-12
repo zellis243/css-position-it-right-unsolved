@@ -8,6 +8,8 @@ Take a look at the provided image of a fancy robot face in `/assets/images/fancy
 
 Then, you will be enhancing the design of the legal information page to deliver an exceptional user experience for smooth scrolling through lengthy content. Utilize your expertise in fixed and sticky positioning to ensure that users can easily read and navigate legal documents.
 
+Before you begin, it is recommended to watch the [introductory video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=c05fcac8-f559-4de4-9ccd-6f167be3d6bd).
+
 ## Learning objectives
 
 This assignment should prove that a student is able to:
