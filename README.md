@@ -53,10 +53,10 @@ This assignment should prove that a student is able to:
 `For the Robot Face exercise:`
 
 - [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
-- [ ] Edit the following files to solve that part of the assignemnt:
+- [ ] Edit the following files to solve that part of the assignment:
   - [ ] html: `/pages/fancy-robot.html`
   - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned folowing the rules:
+- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
   - [ ] It should be horizontally centered to the viewport width and height.
   - [ ] The container should not overlap the header section.
 - [ ] Style the shape of the robot face to follow the requirements:
@@ -97,10 +97,10 @@ This assignment should prove that a student is able to:
 `For the Legal Page exercise`
 
 - [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
-- [ ] Edit the following files to solve that part of the assignemnt:
+- [ ] Edit the following files to solve that part of the assignment:
   - [ ] html: `/pages/legal-page.html`
   - [ ] css: `/css/legal-page.css`
-- [ ] The page heading container should be "pinned" in the top right beneath the herader and take the full width of the viewport, regardless of how far the user scrolls down the page content.
+- [ ] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.
 - [ ] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
 - [ ] The section label should stay fixed in its parent while the user is scrolling through the current section.
 - [ ] The content should not get obscured by any of the containers at the top and bottom of the page.
