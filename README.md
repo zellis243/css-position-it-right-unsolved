@@ -35,10 +35,10 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
+- [x ] Fork the project to your github account
+- [x ] Clone the project to your computer
+- [x ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [ x] This Assignment is NOT tested. You can use all the desired creativity!
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] The project's file/folder structure should NOT be edited!
 - [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
@@ -52,52 +52,52 @@ This assignment should prove that a student is able to:
 
 `For the Robot Face exercise:`
 
-- [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
-- [ ] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/fancy-robot.html`
-  - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
-  - [ ] It should be horizontally centered to the viewport width and height.
-  - [ ] The container should not overlap the header section.
-- [ ] Style the shape of the robot face to follow the requirements:
-  - [ ] Should be a simple shape (square, circle, oval).
-  - [ ] Should have a border of any style, color and width.
-  - [ ] The face parts should NOT touch the border in their static positions.
-  - [ ] The corners of the face shape should NOT be a straight (right) angle.
-- [ ] Create unique random shapes for the following internal elements of the face:
-  - [ ] Left eye
-  - [ ] Right eye
-  - [ ] Nose
-  - [ ] Mouth
-  - [ ] Teeth/tooth
-  - [ ] **!!!Optional** Add any other part you want.
-- [ ] Create unique random shapes for the following external elements of the face:
-  - [ ] Hair style
-  - [ ] Left ear
-  - [ ] Right ear
-  - [ ] **!!!Optional** Add any other part you want.
-- [ ] Shapes must follow the guidelines:
-  - [ ] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.
-  - [ ] Use the following types of shapes:
-    - [ ] At least one square shape
-    - [ ] At least one circle shape
-    - [ ] At least one rectangle shape
-    - [ ] At least one oval shape
-    - [ ] Any other shapes of your choice. You can add additional containers to create a combined shape and additional classes inside the current face part.
-  - [ ] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
-  - [ ] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).
-  - [ ] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
-  - [ ] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
-  - [ ] The width and / or height of at least one shape should be based on relative units relative to the font size.
-  - [ ] At least one shape should have an opacity of 50% or be semi-transparent.
-- [ ] Position the shapes inside or outside the face shape according to the following guidelines:
-  - [ ] In-face elements should be positioned in relation to their static position.
-  - [ ] External face shapes should be positioned in relation to the robot container or the face shape.
+- [x ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
+- [ x] Edit the following files to solve that part of the assignment:
+  - [x ] html: `/pages/fancy-robot.html`
+  - [ x] css: `/css/fancy-robot.css`
+- [ x] The container for the robot face (face shape) should be positioned/aligned following the rules:
+  - [ x] It should be horizontally centered to the viewport width and height.
+  - [ x] The container should not overlap the header section.
+- [x ] Style the shape of the robot face to follow the requirements:
+  - [x ] Should be a simple shape (square, circle, oval).
+  - [ x] Should have a border of any style, color and width.
+  - [ ]x The face parts should NOT touch the border in their static positions.
+  - [ x] The corners of the face shape should NOT be a straight (right) angle.
+- [ x] Create unique random shapes for the following internal elements of the face:
+  - [x ] Left eye
+  - [ x] Right eye
+  - [ x] Nose
+  - [x ] Mouth
+  - [ x] Teeth/tooth
+  - [ x] **!!!Optional** Add any other part you want.
+- [ x] Create unique random shapes for the following external elements of the face:
+  - [x ] Hair style
+  - [ x] Left ear
+  - [ x] Right ear
+  - [ x] **!!!Optional** Add any other part you want.
+- [ x] Shapes must follow the guidelines:
+  - [x ] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.
+  - [ x] Use the following types of shapes:
+    - [x ] At least one square shape
+    - [ x] At least one circle shape
+    - [ x] At least one rectangle shape
+    - [ x] At least one oval shape
+    - [x ] Any other shapes of your choice. You can add additional containers to create a combined shape and additional classes inside the current face part.
+  - [ x] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
+  - [ x] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).
+  - [x ] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
+  - [ x] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
+  - [x ] The width and / or height of at least one shape should be based on relative units relative to the font size.
+  - [x ] At least one shape should have an opacity of 50% or be semi-transparent.
+- [x ] Position the shapes inside or outside the face shape according to the following guidelines:
+  - [x ] In-face elements should be positioned in relation to their static position.
+  - [ x] External face shapes should be positioned in relation to the robot container or the face shape.
 
 `For the Legal Page exercise`
 
-- [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
-- [ ] Edit the following files to solve that part of the assignment:
+- [ x] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
+- [ x] Edit the following files to solve that part of the assignment:
   - [ ] html: `/pages/legal-page.html`
   - [ ] css: `/css/legal-page.css`
 - [ ] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.

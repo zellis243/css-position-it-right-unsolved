@@ -1,35 +1,58 @@
 .legal-header {
   background-color: #e2e2e2;
-  padding: 30px;
-  margin-top: 60px;
+  padding: 50px 20px 50px 30px;
   width: 100%;
 }
 
 .legal-header h1 {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
+  width: 100vw;
+  font-size: 24px;
+  padding: 20px 50px 30px 70px;
+  height: 40px;
+  margin: 0px;
+  position: fixed;
+  top: 60px;
+  z-index: 100;
+  background-color: white;
+  text-align: left;
+  left: 0px;
+  text-indent: 240px;
 }
 
 main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-top: 0px;
+  box-sizing: border-box;
 }
 
 section {
   display: flex;
-  gap: 30px;
   position: relative;
   border-bottom: 1px solid grey;
   padding: 30px;
   max-width: 900px;
   margin: 0 auto;
   color: white;
+  min-height: 100vh;
+  gap: 20px;
+  top: 0px;
+  border-radius: 50px 10px 10px 10px;
 }
 
 .section-label {
-  width: 100%;
   background-color: #2b2d3b;
-  height: max-content;
-  padding: 10px 16px;
+  padding: 5px 30px;
+  position: sticky;
+  top: 140px;
+  z-index: 10;
+  min-width: 120px;
+  height: fit-content;
+  align-self: flex-start;
+  margin-bottom: 0;
+  margin-left: 30px;
 }
 
 .document-content {
@@ -53,22 +76,29 @@ section {
 }
 
 footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
   display: flex;
   align-items: center;
   width: 100%;
   background-color: #e2e2e2;
   padding: 0 30px;
-  min-height: 70px;
+  min-height: 30px;
+  z-index: 50;
 }
 
 .footer-content {
   width: 100%;
-  max-width: 900px;
+  height: 30px;
   display: flex;
   gap: 50px;
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
+  bottom: 0;
+  box-sizing: border-box;
+  padding: 0 10px;
 }
 
 .agree-btn {
